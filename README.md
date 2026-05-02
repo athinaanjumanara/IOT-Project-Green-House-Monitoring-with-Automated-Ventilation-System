@@ -1,0 +1,3 @@
+Designed and built a smart greenhouse IoT prototype using ESP32 microcontroller integrated with DHT11 (temperature/humidity), Soil Moisture, and MQ2 gas sensors, along with SG90 servo motor and shaft motor actuators for automated ventilation control.
+Programmed the system using C++ in Arduino IDE with MQTT-based cloud integration via V-One IoT Platform, enabling real-time environmental data streaming and a color-coded monitoring dashboard displaying temperature, humidity, soil moisture, and air pollution metrics.
+Aligned with UN SDG Goal 2 (Zero Hunger) by automating greenhouse conditions to optimize crop yield, reduce resource wastage, and eliminate dependency on manual monitoring through a full edge-to-cloud IoT architecture.
